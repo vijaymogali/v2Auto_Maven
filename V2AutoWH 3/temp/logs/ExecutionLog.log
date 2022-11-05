@@ -1,0 +1,11 @@
+05/11/2022 23:07:11 AutomationLog INFO:=> Initializing keywords
+05/11/2022 23:07:11 AutomationLog : =========================================================
+05/11/2022 23:07:11 AutomationLog : Executing---LG_BORROWER_01_Verify_ApproveVerbalVOIE Test Case
+05/11/2022 23:07:14 AutomationLog : Navigating tohttps://apply-qa.loanglide.com/?Business=1366&ServiceProvider=2128 Site
+05/11/2022 23:07:14 AutomationLog : No Opened Browser Available, Opening New one
+05/11/2022 23:07:14 AutomationLog : FAIL - Not able to Navigate https://apply-qa.loanglide.com/?Business=1366&ServiceProvider=2128 Site
+05/11/2022 23:07:14 AutomationLog : ACTION failed for DB or API call.
+05/11/2022 23:07:14 AutomationLog : Waiting for NEEDFINANCING_TEXT element to Appear.
+05/11/2022 23:07:14 AutomationLog : Waiting for Max 90 seconds to Appear NEEDFINANCING_TEXT Element which may NOT Present on Page
+05/11/2022 23:07:14 AutomationLog : FAIL - Not able to wait Till NEEDFINANCING_TEXT Element Appears on Page. Please see the screenshot for more details.
+05/11/2022 23:07:14 AutomationLog : FAIL - Not able to wait Till NEEDFINANCING_TEXT Element Appears on Page. Please see the screenshot for more details.
